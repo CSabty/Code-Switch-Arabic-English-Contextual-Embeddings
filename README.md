@@ -39,6 +39,13 @@ We proposed a novel model called KERMIT for producing word embeddings. The archi
 <p float="left">
 <img src="KERMIT_L_fig.PNG" width=400 /> <img src="KERMIT_R_fig.PNG" width=400 />  
   </p>
-
-
+## How to use
+In order to pre-train a KERMIT model 
+```bash
+python create_kermit.py \
+    --initial_bert="/PATH_TO/model.ckpt" \
+    --electra_path="/PATH_TO/model.ckpt" \
+    --new_checkpoint="/PATH_TO/model.ckpt" \
+    
+```
 
