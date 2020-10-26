@@ -34,5 +34,8 @@ You can download models individually from the table below:
 [KERMIT++]: https://drive.google.com/drive/folders/1-Wdy16mK1sNYeVmM2SUh9aBLkoH9bnzZ?usp=sharing
 [KERMIT_tf_++]: https://drive.google.com/drive/folders/1-4KAldz-Mz5fvU8u5TrjvQBG_4UDCURo?usp=sharing
 
+## KERMIT
+<img src="https://github.com/aub-mind/arabert/blob/master/arabert_logo.png" />  
+
 
 
