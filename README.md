@@ -21,7 +21,7 @@ You can download models individually from the table below:
 
  
 [flair]: https://drive.google.com/drive/folders/1-ORpdwtqGvCWq2SgO9NSbr3_RBHk1VBZ?usp=sharing 
-[BERT] : https://drive.google.com/drive/folders/114LStAAM2qWvq01CYSU4b5hD8Q_U306S?usp=sharing
+[BERT]: https://drive.google.com/drive/folders/114LStAAM2qWvq01CYSU4b5hD8Q_U306S?usp=sharing
 [BERT_tf] : https://drive.google.com/drive/folders/10ZMFOxNfOenYU2fUX5ZNy1CGKRRD6U85?usp=sharing
 [BERT++] : https://drive.google.com/drive/folders/1LtkagKM18FLLVF8TkNwTABOKv8s3uJtV?usp=sharing
 [BERT_tf_++] : https://drive.google.com/drive/folders/1jiEEyW0zoowtbfSPXh10c7Seqk2vpgqI?usp=sharing
