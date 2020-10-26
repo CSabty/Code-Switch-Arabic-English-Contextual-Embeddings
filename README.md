@@ -57,12 +57,12 @@ We have evaluated the impact of our models in three tasks; Named Entity Recognit
 |---|:---:|:---:|:---:|:---:|
 |Pooled FLAIR and FastText|77.69|-|87.84|-|
 |FLAIR|72.55|-|87.8|-|
-|FLAIR  and FastText|78.2|-|88.8|-|
+|FLAIR  and FastText|**78.2**|-|**88.8**|-|
 |BERT|64.5|76.5|77.7|37.8|
 |BERT++|68.2|77.1|77.38|38.12|
 |ELECTRA|67|76.29|76.39|34.1|
 |ELECTRA++|68.3|76.29|77.18|37.2|
 |KERMIT|65|78.7|76.8|32.8|
-|KERMIT++|69|79.4|79.9|39.9|
+|KERMIT++|69|**79.4**|79.9|**39.9**|
 
 
