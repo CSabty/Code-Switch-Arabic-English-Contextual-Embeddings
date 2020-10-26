@@ -35,6 +35,7 @@ You can download models individually from the table below:
 [KERMIT_tf_++]: https://drive.google.com/drive/folders/1-4KAldz-Mz5fvU8u5TrjvQBG_4UDCURo?usp=sharing
 
 ## KERMIT
+We proposed a novel model called KERMIT for producing word embeddings. The architecture of this model is an encoder variant of transformers. The pre-training of this model is divided into two stages. In the first stage, KERMIT is trained as a discriminator in ELECTRA architecture using RTD and MLM tasks. After pre-training, the generator is dropped, and the pre-trained discriminator weights are used for the next stage. In the second stage, we initialize the encoder and embedding layers of the BERT model with the trained discriminator model. Then, we further trained the model as a generator using the MLM task.
 <p float="left">
 <img src="KERMIT_L_fig.PNG" width=500 /> <img src="KERMIT_R_fig.PNG" width=500 />  
   </p>
