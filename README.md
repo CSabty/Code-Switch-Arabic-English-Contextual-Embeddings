@@ -41,7 +41,8 @@ We proposed a novel model called KERMIT for producing word embeddings. The archi
   </p>
   
 
-
+## How to use
+In order to pre-train a KERMIT model 
 ```bash
 python create_kermit.py \
     --initial_bert="/PATH_TO/model.ckpt" \
