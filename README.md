@@ -50,4 +50,8 @@ python create_kermit.py \
     --new_checkpoint="/PATH_TO/model.ckpt" \
     
 ```
+## Results
+We have evaluated the impact of our models in three tasks; Named Entity Recognition, SentimentAnalysis and Question Answering on Arabic-English CS text.
+
+
 
