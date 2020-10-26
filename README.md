@@ -6,13 +6,13 @@ You can download models individually from the table below:
 
 |Pytorch|Tensorflow|
 |:---:|:---:|
-|[**Flair**][flair]|[-]
-|[**BERT**][BERT]|[**BERT**][BERT_tf]
-|[**BERT++**][BERT++]|[**BERT++**][BERT_tf_++]
-|[**ELECTRA**][ELECTRA]|[**ELECTRA**][ELECTRA_tf]
-|[**ELECTRA++**][ELECTRA++]|[**ELECTRA++**][ELECTRA_tf_++]
-|[**KERMIT**][KERMIT]|[**KERTMIT**][KERMIT_tf]
-|[**KERMIT++**][KERMIT++]|[**KERTMIT++**][KERMIT_tf_++]
+|[**Flair**][flair]|[-]|
+|[**BERT**][BERT]|[**BERT**][BERT_tf]|
+|[**BERT++**][BERT++]|[**BERT++**][BERT_tf_++]|
+|[**ELECTRA**][ELECTRA]|[**ELECTRA**][ELECTRA_tf]|
+|[**ELECTRA++**][ELECTRA++]|[**ELECTRA++**][ELECTRA_tf_++]|
+|[**KERMIT**][KERMIT]|[**KERTMIT**][KERMIT_tf]|
+|[**KERMIT++**][KERMIT++]|[**KERTMIT++**][KERMIT_tf_++]|
 
 
 
