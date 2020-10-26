@@ -35,7 +35,9 @@ You can download models individually from the table below:
 [KERMIT_tf_++]: https://drive.google.com/drive/folders/1-4KAldz-Mz5fvU8u5TrjvQBG_4UDCURo?usp=sharing
 
 ## KERMIT
-<img src="KERMIT_L_fig.PNG" /> | <img src="KERMIT_R_fig.PNG" />  
+<p float="left">
+<img src="KERMIT_L_fig.PNG" /> <img src="KERMIT_R_fig.PNG" />  
+  </p>
 
 
 
