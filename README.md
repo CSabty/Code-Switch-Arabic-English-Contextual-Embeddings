@@ -42,7 +42,7 @@ We proposed a novel model called KERMIT for producing word embeddings. The archi
   
 
 ## How to use
-In order to pre-train a KERMIT model 
+In order to pre-train a KERMIT model you need to firstly pre-train an ELECTRA model and use a randomly initialized BERT model. 
 ```bash
 python create_kermit.py \
     --initial_bert="/PATH_TO/model.ckpt" \
