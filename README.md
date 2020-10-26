@@ -36,7 +36,7 @@ You can download models individually from the table below:
 
 ## KERMIT
 <p float="left">
-<img src="KERMIT_L_fig.PNG" /> <img src="KERMIT_R_fig.PNG" />  
+<img src="KERMIT_L_fig.PNG" width=270 /> <img src="KERMIT_R_fig.PNG" width=270 />  
   </p>
 
 
