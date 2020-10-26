@@ -6,7 +6,7 @@ You can download models individually from the table below:
 
 |Pytorch|Tensorflow|
 |:---:|:---:|
-|[**Flair**][flair]|[-]|
+|[**Flair**][flair]|-|
 |[**BERT**][BERT]|[**BERT**][BERT_tf]|
 |[**BERT++**][BERT++]|[**BERT++**][BERT_tf_++]|
 |[**ELECTRA**][ELECTRA]|[**ELECTRA**][ELECTRA_tf]|
