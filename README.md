@@ -67,4 +67,13 @@ We have evaluated the impact of our models in three tasks; Named Entity Recognit
 |KERMIT++|69|**79.4**|-|**79.9**|**39.9**|
 
 
+## You can cite us
+```
+@inproceedings{,
+  title={Contextual Embeddings for Arabic-English Code-Switched Data},
+  author={Caroline Sabty, Mohamed Islam and Slim Abdennadher},
+  booktitle={Proceedings of the Fifth Arabic Natural Language Processing Workshop WANLP 2020},
+  pages={9}
+}
+```
 
