@@ -53,6 +53,7 @@ python create_kermit.py \
 ## Results
 We have evaluated the impact of our models in three tasks; Named Entity Recognition, SentimentAnalysis and Question Answering on Arabic-English CS text.
 
+```
 |Model|NER (Flair)|NER (Huggingface)|Sentiment analysis|Question answering|
 |---|:---:|:---:|:---:|:---:|
 |Pooled FLAIR and FastText|77.69|-|87.84|-|
@@ -64,6 +65,7 @@ We have evaluated the impact of our models in three tasks; Named Entity Recognit
 |ELECTRA++|68.3|76.29|77.18|37.2|
 |KERMIT|65|78.7|76.8|32.8|
 |KERMIT++|69|**79.4**|79.9|**39.9**|
+```
 
 |Model|NER (Flair)|NER (Huggingface)|Sentiment analysis(Flair)|Sentiment Analysis (Hugignface)|Question answering|
 |---|:---:|:---:|:---:|:---:|:---:|
