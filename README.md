@@ -50,7 +50,7 @@ python create_kermit.py \
     --new_checkpoint="/PATH_TO/model.ckpt" \
     
 ```
-After running this code new_checkpont path would contain the KERMIT model which could then be pre-trained as a BERT model.
+After running this code ```new_checkpont``` path would contain the KERMIT model which could then be pre-trained as a BERT model.
 ## Results
 We have evaluated the impact of our models in three tasks; Named Entity Recognition, SentimentAnalysis and Question Answering on Arabic-English CS text.
 
