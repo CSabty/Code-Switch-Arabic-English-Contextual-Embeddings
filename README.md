@@ -56,7 +56,7 @@ We have evaluated the impact of our models in three tasks; Named Entity Recognit
 
 
 |Model|NER (Flair)|NER (Huggingface)|Sentiment analysis(Flair)|Sentiment Analysis (Hugignface)|Question answering|
-|---|:---:|:---:|:---:|:---:|:---:|
+|------|:---:|:---:|:---:|:---:|:---:|
 |Pooled FLAIR and FastText|77.69|-|87.84|-|-|
 |FLAIR|72.55|-|87.8|-|-|
 |FLAIR  and FastText|**78.2**|-|**88.8**|-|-|
